@@ -1,4 +1,8 @@
 [![Documented with Setinstone.io](https://img.shields.io/badge/⛰️Documented%20with-Setinstone.io-success?logo=book&logoColor=white)](https://calendly.com/set-in-stone-thomas-benoit/setinstone-demo)
+[![CI](https://github.com/thomgit9/pfr/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/thomgit9/pfr/actions/workflows/ci.yml)
+[![License: BSL-1.0](https://img.shields.io/badge/License-BSL--1.0-blue.svg)](LICENSE_1_0.txt)
+![C++](https://img.shields.io/badge/C%2B%2B-14%2B-blue)
+![Header-only](https://img.shields.io/badge/library-header--only-lightgrey)
 
 # [Boost.PFR](https://boost.org/libs/pfr)
 
@@ -10,7 +14,7 @@ This makes it possible to access structure fields by index, perform serializatio
 
 The project `thomgit9/pfr` is a mirror implementation of `boostorg/pfr`, released under the [Boost Software License 1.0 (BSL-1.0)](https://boost.org/LICENSE_1_0.txt), and is completely independent of other Boost libraries.
 
-Repository: [https://github.com/thomgit9/pfr](https://github.com/thomgit9/pfr)
+Repository: [https://github.com/boostorg/pfr](https://github.com/boostorg/pfr)
 
 ---
 
@@ -203,15 +207,3 @@ Compatible with **C++14**, **C++17**, and **C++20** standard compilers (GCC, Cla
 Distributed under the [Boost Software License, Version 1.0](https://boost.org/LICENSE_1_0.txt).
 
 ---
-
-## Contributors
-
-- [apolukhin](https://github.com/apolukhin)
-- [denzor200](https://github.com/denzor200)
-- [cbeck88](https://github.com/cbeck88)
-- [zmij](https://github.com/zmij)
-- [abutcher-gh](https://github.com/abutcher-gh)
-- [akrzemi1](https://github.com/akrzemi1)
-- [alexiprof](https://github.com/alexiprof)
-- [ofats](https://github.com/ofats)
-- [graf
